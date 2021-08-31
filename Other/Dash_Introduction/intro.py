@@ -81,7 +81,7 @@ def update_graph(option_slctd):
     #         colorscale='Reds',
     #     )]
     # )
-    #
+    
     # fig.update_layout(
     #     title_text="Bees Affected by Mites in the USA",
     #     title_xanchor="center",
